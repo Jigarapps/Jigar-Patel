@@ -45,7 +45,8 @@ Git | GitHub | AWS | Google Cloud | Docker
 ## 🤝 Let's Connect
 
 💼 Open to freelance & collaboration  
-📬 Feel free to reach out for mobile app development projects  
+📬 Feel free to reach out for mobile app development projects worldwide
+🔗 Upwork: https://www.upwork.com/freelancers/pateljigar
 
 ---
 
