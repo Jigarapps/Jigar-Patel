@@ -11,14 +11,14 @@
 📱 Develop cross-platform apps (Android & iOS)  
 ⚡ Fix bugs, crashes & performance issues  
 ✨ Add new features to existing apps  
-🔔 Integrate Push Notifications & location services 
-🔐 Implement Authentication & Secure APIs  
+🔔 Integrate Push Notifications & location services     
+🔐 Implement Authentication & Secure APIs      
 💳 Payment Gateway & In-App Purchases  
 ☁ Firebase & Supabase integration  
-🎨 Convert Figma designs into pixel-perfect mobile UI 
+🎨 Convert Figma designs into pixel-perfect mobile UI        
 🛠️ Handle App Store & Play Store deployment and fixes
 
---
+---
 
 ## 🚀 Tech Stack
 
