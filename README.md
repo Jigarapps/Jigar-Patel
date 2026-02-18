@@ -32,6 +32,9 @@ Firebase | Supabase | MongoDB | MySQL
 **Tools & Cloud:**  
 Git | GitHub | AWS | Google Cloud | Docker 
 
+**State Management:**  
+Provider | Riverpod | Bloc | GetX | Redux 
+
 ---
 
 ## 📌 Currently Focused On
